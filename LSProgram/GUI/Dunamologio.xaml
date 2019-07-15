@@ -1,0 +1,13 @@
+﻿<Window x:Class="LSProgram.GUI.Dunamologio"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LSProgram.GUI"
+        mc:Ignorable="d"
+        Title="Dunamologio" Height="306" Width="504.8">
+    <Grid Margin="0,0,3.4,-19.4">
+        <Button Content="Επεξεργασία Δύναμης" HorizontalAlignment="Left" Margin="169,55,0,0" VerticalAlignment="Top" Width="145" Click="Button_Click" Height="43" RenderTransformOrigin="0.51,0.907"/>
+
+    </Grid>
+</Window>
